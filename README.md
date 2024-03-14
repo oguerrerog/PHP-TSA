@@ -1,4 +1,4 @@
-# php timestamping authority
+# PHP TimeStamp Authority Server (TSA)
 ## Description
 TSA (Timestamp authority) RFC3161 server with pure php.<br />
 <br />
